@@ -1,4 +1,4 @@
-### Hi there 👋 it'ts me khalid skiod 
+### Hi there 👋 it's me khalid skiod 
 
 <!--
 **skiod/skiod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
