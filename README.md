@@ -4,12 +4,17 @@
 
 i write javascript in daily basis.
 
-Where you can find me .
+Where you can find me  : 
 
 
-[LinkedIn](https://www.linkedin.com/in/khalid-skiod-240214125/)
+👔 [LinkedIn](https://www.linkedin.com/in/khalid-skiod-240214125/)
 
+🚀 [www.khalidskiod.com](https://www.khalidskiod.com)
 
+Or you can contact me directly 
+📧 [contact@khalidskiod.com](mailto:contact@khalidskiod.com)
 
+And also started my fresh blog 
 
+🖊️ [my blog](https://www.khalidskiod.com/blog)
 
