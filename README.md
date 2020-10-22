@@ -1,6 +1,6 @@
 ### Hi there 👋 it's me khalid skiod - Fullstack developer
 
-🔭 Currently working as fullstack developer @scalify.
+🔭 Currently working as fullstack developer [@scalify](https://www.scalify.app).
 
 i write javascript in daily basis.
 
