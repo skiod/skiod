@@ -2,7 +2,7 @@
 
 🔭 Currently working as a fullstack developer [@scalify](https://www.scalify.com).
 
-i write javascript in daily basis.
+I write javascript in daily basis.
 
 - 👔 [LinkedIn](https://www.linkedin.com/in/khalid-skiod-240214125/)
 
