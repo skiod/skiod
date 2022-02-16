@@ -8,7 +8,7 @@ I write javascript in daily basis.
 
 - 🚀 [skiod.github.io](https://skiod.github.io)
 
-- 📧 [khalid94.skiod@gmail.com](mailto:khalid94.skiod@gmail.com) (
+- 📧 [khalid94.skiod@gmail.com](mailto:khalid94.skiod@gmail.com)
 
 - 🖊️ [my blog](#) (i'll reopen it soon 👨🏻‍💻)
 
