@@ -10,5 +10,5 @@ I write javascript in daily basis.
 
 - 📧 [khalid94.skiod@gmail.com](mailto:khalid94.skiod@gmail.com)
 
-- 🖊️ [my blog](#) (i'll reopen it soon 👨🏻‍💻)
+- 🖊️ [my blog](https://medium.com/@khalidskiod)
 
