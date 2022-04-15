@@ -6,9 +6,9 @@ I write javascript in daily basis.
 
 - 👔 [LinkedIn](https://www.linkedin.com/in/khalid-skiod-240214125/)
 
-- 🚀 [skiod.github.io](https://skiod.github.io)
+- 🚀 [Skiod.github.io](https://skiod.github.io)
 
-- 📧 [khalid94.skiod@gmail.com](mailto:khalid94.skiod@gmail.com)
+- 📧 [Khalid94.skiod@gmail.com](mailto:khalid94.skiod@gmail.com)
 
-- 🖊️ [my blog](https://medium.com/@khalidskiod)
+- 🖊️ [Blog](https://medium.com/@khalidskiod)
 
