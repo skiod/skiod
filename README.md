@@ -1,4 +1,4 @@
-### Hi there 👋 it's me khalid skiod - Fullstack developer
+### Hi there 👋 it's me khalid skiod - Fullstack developer | Sr Nodejs Developer | Saas Developer
 
 🔭 Currently working as a fullstack developer [@scalify](https://www.scalify.com).
 
