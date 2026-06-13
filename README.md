@@ -32,6 +32,5 @@ I write JavaScript on a daily basis and enjoy building useful products from idea
 ### 📫 Connect with me
 
 * 👔 [LinkedIn](https://www.linkedin.com/in/khalid-skiod-240214125/)
-* 🚀 [Portfolio](https://skiod.github.io)
-* 📧 [Khalid94.skiod@gmail.com](mailto:Khalid94.skiod@gmail.com)
+* 📧 [hello@studiosweetapps.com](mailto:hello@studiosweetapps.com)
 * 🖊️ [Blog](https://medium.com/@khalidskiod)
